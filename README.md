@@ -32,10 +32,7 @@
 <p align="left">
 
 💻 **GitHub**  
-https://github.com/SnehaGudur
-
-📄 **Resume**  
-https://github.com/SnehaGudur/SnehaGudur/blob/main/SNEHA_GUDUR_RESUME.pdf
+https://github.com/SnehaGudur/SnehaGudur
 
 🌐 **Portfolio**  
 https://vercel.com/snehagudurs-projects
