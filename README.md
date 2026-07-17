@@ -27,15 +27,12 @@
 
 ---
 
-## 🌐 Portfolio & Links
+## 🌐 Links
 
 <p align="left">
 
 💻 **GitHub**  
 https://github.com/SnehaGudur/SnehaGudur
-
-🌐 **Portfolio**  
-https://vercel.com/snehagudurs-projects
 
 📧 **Email**  
 snehagudur95@gmail.com
